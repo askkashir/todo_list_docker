@@ -58,3 +58,11 @@ docker-compose down
 - PUT /api/todos/:id - Toggle todo completion
 - DELETE /api/todos/:id - Delete a todo
 
+#Screenshots 
+
+<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/bc835dc6-c072-454f-9729-3f74407f85c9" />
+
+<img width="1920" height="886" alt="image" src="https://github.com/user-attachments/assets/0f42cf1f-e4e0-4c39-b101-46433174861b" />
+
+<img width="954" height="721" alt="image" src="https://github.com/user-attachments/assets/36281382-3081-45cf-89e4-940e566f10d0" />
+
